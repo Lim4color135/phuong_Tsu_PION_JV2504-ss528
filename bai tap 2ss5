@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+        <title>Document</title>
+        <link rel="stylesheet" href="css1">
+    </head>
+    <body>
+        <p>Truoc khi di chuot</p>
+        <div>
+            <ul>
+                <li>Item 1</li>
+                <li>Item 2</li>
+                <li>Item 3</li>
+                <li>Item 4</li>
+            </ul>
+        </div>
+        <p>sau khi Hover</p>
+        <div>
+            <ul>
+                <li class="item">Item 1</li>
+                <li class="item">Item 2</li>
+                <li class="item">Item 3</li>
+                <li class="item"> Item 4</li>
+            </ul>
+        </div>
+    </body>
+</html>
