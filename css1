@@ -1,0 +1,10 @@
+*{
+    padding: 10px; 
+    margin-bottom: 8px;
+}
+li{
+    background-color: lightgray;
+    color: white;
+}
+.class{background-color: #555;
+}
